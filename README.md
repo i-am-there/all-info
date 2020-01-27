@@ -24,7 +24,7 @@ After building the Website/Project its time for deployment. Generally we are usi
 
 Cloud Service Provider Amazon Web Services(AWS), Microsoft Azure , Digital Ocean, IBM Cloud, Rackspace, Go Daddy etc;
 
-CI/CD( Continous Integration Continous Deployment)
+#CI/CD( Continous Integration Continous Deployment)
 
 A CI/CD pipeline helps you to automate step in your software delivery process,such as initialing code builds,running automated tests,and deploying to a production enviiroment.Automated pipelines remove manaul errors,provide standardized development feedback loops and enable fast product iterations.
 
@@ -32,7 +32,7 @@ CI,short for Continous Integration, is a software development practice in which 
 
 DevOps -(Development + Operations). is how modren developers are builing great products by using new methods of Continuous Integration,Continuous Delivery,(CI/CD) and Continuous Deployment.Most teams have automated processes to check in code and deploy to new environment.
 
-Operating System (OS)
+#Operating System (OS)
 
 An operating system is the primary software that manages all the hardware and other software on a computer. The operating system, also known as an Operating System interfaces with the computer’s hardware and provides services that applications can use.
 
@@ -42,7 +42,7 @@ Unix is a portable,multitasking,multiuser,time-sharing operting system (OS) orig
 
 Developer -Ken Thompson, Dennis Ritchie and others. Written in :C, Assembly language
 
-LINUX
+#LINUX
 
 Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on 1991, by Linus Torvalds.Linux is typically packaged in a Linux distribution. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system.Linux is a freely distributable version of Unix.
 
@@ -52,7 +52,7 @@ GNU-(GNU stands for GNU's Not UNIX. It is a UNIX like computer operating system,
 
 Note:- Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Its current maintainer since 2005 is Junio Hamano. Its goals include speed, data integrity, and support for distributed, non-linear workflows. The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository.
 
-Why use Linux ?
+#Why use Linux ?
 
 Linux makes very efficient use of the system's resources.This allows them to install Linux even on old hardware, thus helping in optimal use of all the hardware resources. Linux runs on a range of hardware
 
