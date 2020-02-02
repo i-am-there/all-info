@@ -2,13 +2,9 @@
 
 SOFTWARE ARCHITECTURE
 
-Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
-
-Software Architecture
+The architecture of a system describes its major components, their relationships (structures), and how they interact with each other. Software architecture and design includes several contributory factors such as Business strategy, quality attributes, human dynamics, design, and IT environment.
 
 Monolithic Architecture Service Oriented Architecture (Micro services) Service Based Architecture (5G) A Monolithic architecture is the traditional unified model for the design of a software program. Monolithic means composed all in one piece.In a tightly-coupled architecture, each component and its associated components must be present in order for code to be executed or compiled.
-
-      USER INTERFACE   -------> LOGIC ------> DATA INTERFACE  -------> DATEBASE 
 
 Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. The basic principles of service-oriented architecture are independent of vendors, products and technologies.
 
