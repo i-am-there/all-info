@@ -14,7 +14,9 @@ Service-Based Architecture (SBA), whereby the control plane functionality and co
 
 Purchase a Domain Name (If you are new you need to do is register a domain name.)
 
-After building the Website/Project its time for deployment. Generally we are using Cloud Service for hosting the website on the Server. Examples of cloud services include online data storage and backup solutions, Web-based e-mail services, hosted office suites and document collaboration services, database processing, managed technical support services and more. With help of Cloud Service we get the fixed IP address (Public IP address) and another services which is important for website. IP Address ---> 1.Private IP address 2.Public IP address
+After building the Website/Project its time for deployment. Generally we are using Cloud Service for hosting the website on the Server. Examples of cloud services include online data storage and backup solutions, Web-based e-mail services, hosted office suites and document collaboration services, database processing, managed technical support services and more. With help of Cloud Service we get the fixed IP address (Public IP address) and another services which is important for website. 
+
+*IP Address ---> 1.Private IP address   2.Public IP address
 
 *Note :-Local host /127.0.0.1.( Private IP address)
 
@@ -88,8 +90,8 @@ it is a distributed ledger where the saved digital records are distributed acros
 
 Every block comprises of-
 
-1 Data
-2 Hash of the block
-3 Hash of the previous block
+* Data
+* Hash of the block
+* Hash of the previous block
 
 The data recorded in a block depends on the blockchain type. For example, Bitcoin Blockchain saves the details about a transaction such as a receiver, sender and number of coins. A hash of the block is similar to a fingerprint(always unique) that provides identification to the block and its contents. Once a block is created, a hash gets generated. Hash value gets changed with every change in the block. Therefore, hash values help in detecting the changes made to blocks. Containing a hash of the previous block means every block is linked to each other and creates a chain of blocks, known as “Blockchain.” Once the data has been recorded or added in a blockchain, it becomes difficult to change it.
