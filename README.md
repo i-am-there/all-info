@@ -16,9 +16,9 @@ Purchase a Domain Name (If you are new you need to do is register a domain name.
 
 After building the Website/Project its time for deployment. Generally we are using Cloud Service for hosting the website on the Server. Examples of cloud services include online data storage and backup solutions, Web-based e-mail services, hosted office suites and document collaboration services, database processing, managed technical support services and more. With help of Cloud Service we get the fixed IP address (Public IP address) and another services which is important for website. 
 
-*IP Address ---> 1.Private IP address   2.Public IP address
+*IP Address ---> 1.Private IP address   2.Public IP address*
 
-*Note :-Local host /127.0.0.1.( Private IP address)
+*Note :-Local host /127.0.0.1.( Private IP address)*
 
 Cloud Service Provider Amazon Web Services(AWS), Microsoft Azure , Digital Ocean, IBM Cloud, Rackspace, Go Daddy etc;
 
@@ -60,15 +60,17 @@ Linux makes very efficient use of the system's resources.This allows them to ins
 
 * Open source: The most important aspect of Linux is that its source code is available as it falls under the Free and Open Source Software.The developer community benefits from this as its members have the freedom to view and modify the source code.
 
-WINDOWS Windows OS, computer operating system developed by Microsoft Corporation to run personal computers. Featuring the first graphical user interface (GUI) for IBM-compatible PCs, the Windows OS soon dominated the PC market.
+### WINDOWS 
 
-Microsoft Windows. Operating system designed and produced by Microsoft Corporation. Similar to other operating systems, Windows makes a computer system user-friendly by providing a graphical display and organizing information so that it can be easily accessed.
+Windows OS is a computer operating system developed by Microsoft Corporation to run on personal computers. Featuring the first graphical user interface (GUI) for IBM-compatible PCs, the Windows OS dominated the market as soon as it was released due to its easy access and user friendly GUI.
 
-KERNEL Kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system. The kernel give interactions between hardware and software components.
+**KERNEL**
+
+Kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system. The kernel give interactions between hardware and software components.
 
 Written in :C, Assembly language
 
-**BARE METAL**:- Bare metal is a computer system without a base operating system (OS) or installed applications. It is a computer's hardware assembly, structure and components that is installed with either the firmware or basic input/output system (BIOS) software utility or no software at all.
+**Bare Metal**:- Bare metal is a computer system without a base operating system (OS) or installed applications. It is a computer's hardware assembly, structure and components that is installed with either the firmware or basic input/output system (BIOS) software utility or no software at all.
 
 **Hypervisor**:- A hypervisor, also known as a virtual machine monitor, is a process that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, like memory and processing. Type 1 hypervisor : A Type 1 hypervisor runs directly on the host machine's physical hardware, and it's referred to as a bare-metal hypervisor; it doesn't have to load an underlying OS first. Type 2 hypervisors : A Type 2 hypervisor is typically installed on top of an existing OS, and it's called a hosted hypervisor because it relies on the host machine's pre-existing OS to manage calls to CPU, memory, storage and network resources.
 
